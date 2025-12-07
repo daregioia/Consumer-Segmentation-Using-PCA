@@ -33,7 +33,7 @@ Interpretation:
   - Cluster 1 → Disengaged aesthetic seekers (20.0%)
   - Cluster 2 → Price-focused independents (33.3%)
 
-  Clear separation shown in PCA scatter plot (pages 12–14).
+  Clear separation shown in PCA scatter plot.
 
 🔍 Key Insights from Analysis
 
