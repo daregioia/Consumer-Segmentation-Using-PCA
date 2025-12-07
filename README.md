@@ -16,7 +16,7 @@ Using PCA and K-means clustering, we identify underlying behavioral dimensions a
 
 3. Principal Component Analysis
 
-Key results (from PCA summary on page 6–7):
+Key results:
   - PC1 explains 53.4% of variance
   - PC2 explains 37.0%
   - First 2 PCs together explain 90.48% ➝ sufficient for dimensionality reduction
@@ -35,10 +35,10 @@ Interpretation:
 
   Clear separation shown in PCA scatter plot (pages 12–14).
 
-🔍 Key Insights from Your Analysis
+🔍 Key Insights from Analysis
 
 Segment Profiles
-(derived from segment means on page 17–18)
+(derived from segment means)
 
 1️⃣ Service-Oriented Shoppers (47%)
 - High PC1: value respect, attentive service, dislike disrespect
